@@ -1,5 +1,4 @@
-package practica2;
-
+package practica3;
 import java.util.Scanner;
 import java.util.Random;
 

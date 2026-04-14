@@ -1,5 +1,4 @@
-package practica2;
-
+package practica3;
 public class JuegoAdivinaImpar extends JuegoAdivinaNumero {
     
     public JuegoAdivinaImpar(int numeroDeVidas) {
